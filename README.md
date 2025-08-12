@@ -1,21 +1,15 @@
-![cloud-integration development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwdjlwNmkyYzV1aTRwbTV0bW1hZGM1OW56aHp1dnhyazByYjd4ZTN4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8iALpBNdW0mFMdytRE/giphy.gif)
-
 # Introduction
-Bonjour, je suis greemaltend4, un développeur passionné par la technologie et l'innovation. J'aime résoudre des problèmes complexes et travailler sur des projets stimulants.
+Bonjour ! Je suis greemaltend4, un développeur passionné par la technologie et le développement logiciel.
 
 # Skills
-- JavaScript
-- Python
-- HTML/CSS
-- React
-- Node.js
+- Langages : JavaScript, Python, Java
+- Frameworks : React, Node.js, Django
+- Outils : Git, Docker, AWS
 
 # Projects
-- **Projet A**: Application web pour la gestion des tâches.
-- **Projet B**: API RESTful pour un service de réservation.
-- **Projet C**: Site e-commerce avec intégration de paiement.
+- **MonApplication** : Une application web pour gérer les tâches, construite avec React et Node.js.
+- **API REST** : Une API RESTful en Python avec Flask pour la gestion des utilisateurs.
 
 # Contacts
-Vous pouvez me contacter via:
-- Email: greemaltend4@example.com
-- LinkedIn: [linkedin.com/in/greemaltend4](https://linkedin.com/in/greemaltend4)
+- Email : greemaltend4@example.com
+- LinkedIn : [linkedin.com/in/greemaltend4](https://linkedin.com/in/greemaltend4)
