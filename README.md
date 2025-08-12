@@ -1,15 +1,16 @@
-# Introduction
-Bonjour ! Je suis greemaltend4, un développeur passionné par la technologie et le développement logiciel.
+# greemaltend4
 
-# Skills
-- Langages : JavaScript, Python, Java
-- Frameworks : React, Node.js, Django
-- Outils : Git, Docker, AWS
+**Theme:** web-development
 
-# Projects
-- **MonApplication** : Une application web pour gérer les tâches, construite avec React et Node.js.
-- **API REST** : Une API RESTful en Python avec Flask pour la gestion des utilisateurs.
+## About
+Focused on web-development.
 
-# Contacts
-- Email : greemaltend4@example.com
-- LinkedIn : [linkedin.com/in/greemaltend4](https://linkedin.com/in/greemaltend4)
+## Tech
+- Python · Git · CI/CD
+- - web
+- frontend
+- backend
+- react
+
+## Links
+- Profile: https://github.com/greemaltend4
