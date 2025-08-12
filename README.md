@@ -1,16 +1,21 @@
-## Hi there 👋
+![cloud-integration development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwdjlwNmkyYzV1aTRwbTV0bW1hZGM1OW56aHp1dnhyazByYjd4ZTN4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8iALpBNdW0mFMdytRE/giphy.gif)
 
-<!--
-**greemaltend4/greemaltend4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+Bonjour, je suis greemaltend4, un développeur passionné par la technologie et l'innovation. J'aime résoudre des problèmes complexes et travailler sur des projets stimulants.
 
-Here are some ideas to get you started:
+# Skills
+- JavaScript
+- Python
+- HTML/CSS
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- **Projet A**: Application web pour la gestion des tâches.
+- **Projet B**: API RESTful pour un service de réservation.
+- **Projet C**: Site e-commerce avec intégration de paiement.
+
+# Contacts
+Vous pouvez me contacter via:
+- Email: greemaltend4@example.com
+- LinkedIn: [linkedin.com/in/greemaltend4](https://linkedin.com/in/greemaltend4)
